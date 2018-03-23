@@ -15,6 +15,12 @@ Follow my journey to learning to code. It may be a slow progression, but some pr
 | ------------- | ------------- |
 | 01/29/2018  | Udacity - Intro to JavaScript // CSS + HTML |
 | 02/05/2018  | Hack Reactor Challenge Problems (152 problems) |
+| 02/25/2018  | Read Head First Into JavaScript Programming |
 | 03/09/2018  | Completion of all HR Challenge Problems  |
 | 03/08/2018  | Learning to Use GitHub - First Repository |
-| 03/09/2018  | Start CodeWars Challenges |
+| 03/09/2018  | Start CodeFight Challenges |
+| 03/14/2018  | Start Streaming Coding Challenges on Twitch |
+
+
+
+** I ended stopping the challenges problems to get more material on the foundations of JS and I thoroughly enjoy HFIJ!
