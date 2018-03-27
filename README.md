@@ -20,7 +20,5 @@ Follow my journey to learning to code. It may be a slow progression, but some pr
 | 03/08/2018  | Learning to Use GitHub - First Repository |
 | 03/09/2018  | Start CodeFight Challenges |
 | 03/14/2018  | Start Streaming Coding Challenges on Twitch |
+| 03/27/2018  | Learning how to write Assert Test |
 
-
-
-** I ended stopping the challenges problems to get more material on the foundations of JS and I thoroughly enjoy HFIJ!
