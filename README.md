@@ -19,9 +19,9 @@ Follow my journey to learning to code. It may be a slow progression, but some pr
 | 03/09/2018  | Completion of all Repl.it/ HR Challenge Problems  |
 | 03/08/2018  | Learning to Use GitHub - First Repository |
 | 03/09/2018  | Start CodeFight Challenges |
-| 03/14/2018  | Start Streaming Coding Challenges on Twitch |
+| 03/14/2018  | Start Streaming Coding Challenges on [Twitch](https://twitch.tv/suceec) |
 | 03/27/2018  | Learning how to write *basic* Assert Test |
-| 03/28/2018  | Learning Higher Functions |
+| 03/28/2018  | Learning Higher Functions via [FunFunFunctions](https://www.youtube.com/watch?v=bCqtb-Z5YGQ)|
 
 
 ## Self Learning Process 
@@ -32,7 +32,9 @@ If you have absolutely 0 background in CS/coding, remember to be **realistic**. 
 The Udacity Introduction to JavaScript course was the  *pre-requisite* to do the Repl.it challenges. Let me tell you right now before you start hyperventilating and feeling like you are dumb. 
 
 >First, you are **not** dumb. 
+
 >Second, the pre-requisite, **wasn't** enough to do those problems. It wasn't even close. You can probably get past the first 20 basic problems.  Don't beat yourself over the problems if you can't do them. The beginning will be the hardest.   
+
 >Third, remember, when I said it will take some time?  I meant it. It took me about 4 weeks (1 week being sick with the flu dying slowly in bed) to just finish the 02/05/2018 challenge probles listed. It was a long, dreadful, but informative learning experience that really puts you through the ringer. 
 
 To be continued... I have to code right now . 
